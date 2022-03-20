@@ -2,8 +2,8 @@
 
 04-2D-Platformer - 3/19/22
 
-Description
-
+## Description
+This 2D platform game is called "Color Run". In this game you control a character who has to make it from one side of the map to the other while collecting coins and avoiding obsticles and enemy mobs!
 
 ## Implementation
 User-controlled player,
@@ -25,6 +25,7 @@ https://soundbible.com/1601-Mario-Jumping.html#google_vignette
 https://www.kenney.nl/assets/scribble-platformer
 
 ## Future Development
+My next goal would be to make more intracate map designs. 
 
 ## Created by
 Ross Gelick
