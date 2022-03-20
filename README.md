@@ -6,15 +6,15 @@ Description
 
 
 ## Implementation
-User-controlled player
-The player can jump
-Includes at least one enemy
-Includes more than one enemy
-Reports the player's score
-The camera follows the player
-The player can save and load the game
-Multiple levels
-Point system
+User-controlled player,
+The player can jump,
+Includes at least one enemy,
+Includes more than one enemy,
+Reports the player's score,
+The camera follows the player,
+The player can save and load the game,
+Multiple levels,
+Point system.
 
 ## References
 https://www.kenney.nl/assets/scribble-platformer
