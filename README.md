@@ -25,7 +25,7 @@ https://soundbible.com/1601-Mario-Jumping.html#google_vignette
 https://www.kenney.nl/assets/scribble-platformer
 
 ## Future Development
-My next goal would be to make more intracate map designs. 
+My next goal would be to make more intricate map designs. 
 
 ## Created by
 Ross Gelick
